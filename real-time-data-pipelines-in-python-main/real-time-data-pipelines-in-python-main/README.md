@@ -5,17 +5,8 @@
 <div align="center">
     <h1>Build and deploy a production-ready real-time feature pipeline in Python</h1>
     <h2>Apache Kafka + Python = <a href="https://github.com/quixio/quix-streams">Quix Streams</a> ❤️</h2>
+
     
-</div>
-
-<div align="center">
-  <a href="https://www.youtube.com/watch?v=JMQwXmlloJM">
-    <img src="assets/yt_cover.png" alt="Intro to the course" style="width:75%;">
-    <p>Click here to watch the video 🎬</p>
-  </a>
-</div>
-
-
 #### Table of contents
 * [The problem](#the-problem)
 * [Example](#example)
@@ -137,10 +128,3 @@ The dashboard has been deployed to Quix Cloud and it is publicly accessible [her
     <p>Click here to see the dashoard in action</p>
   </a>
 </div>
-
-
-## Wanna learn more real-time ML?
-
-Join more than 13k subscribers to the Real-World ML Newsletter. Every Saturday morning.
-
-[→ Subscribe for FREE 🤗](https://www.realworldml.net/subscribe)
